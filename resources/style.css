@@ -1,0 +1,90 @@
+#Iniciar{
+    -fx-background-color: #007fb6;
+    -fx-font: 18pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-width: 4px;
+    -fx-border-radius: 20%;
+    -fx-border-color: rgb(255, 255, 255);
+}
+#Iniciar:hover {
+    -fx-background-color:#65baff;
+}
+#pausarConsumidor{
+    -fx-background-color: rgb(255, 0, 0);
+    -fx-font: 10pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-width: 4px;
+    -fx-border-radius: 20%;
+    -fx-border-color: rgb(255, 255, 255);
+}
+#pausarConsumidor:hover {
+    -fx-background-color:rgb(255, 90, 90);
+}
+#pausarProdutor{
+    -fx-background-color: #007fb6;
+    -fx-font: 10pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-width: 4px;
+    -fx-border-radius: 20%;
+    -fx-border-color: rgb(255, 255, 255);
+}
+#pausarProdutor:hover {
+    -fx-background-color:#65baff;
+}
+#reiniciar {
+    -fx-background-color: #00501c;
+    -fx-font: 10pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-width: 4px;
+    -fx-border-radius: 20%;
+    -fx-border-color: rgb(255, 255, 255);
+}
+#reiniciar:hover {
+    -fx-background-color: #00c043;
+}
+#slowDownProducer {
+    -fx-background-color: #008cff;
+    -fx-font: 12pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-radius: 20%;
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: rgb(255, 255, 255);
+}
+#slowDownProducer:hover{
+    -fx-background-color:#65baff;
+}
+#speedUpProducer{
+    -fx-background-color: #008cff;
+    -fx-font: 12pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-radius: 20%;
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: rgb(255, 255, 255);
+}
+#speedUpProducer:hover{
+    -fx-background-color:#65baff;
+}
+#slowDownConsumer {
+    -fx-background-color: rgb(255, 0, 0);
+    -fx-font: 12pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: rgb(0, 0, 0);
+}
+#slowDownConsumer:hover{
+    -fx-background-color: rgb(255, 90, 90);
+}
+#speedUpConsumer{
+    -fx-background-color: rgb(255, 0, 0);
+    -fx-font: 12pt "Arial";
+    -fx-font-weight: bold;
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: rgb(0, 0, 0);
+}
+#speedUpConsumer:hover{
+    -fx-background-color: rgb(255, 90, 90);
+}
